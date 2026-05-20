@@ -1,7 +1,18 @@
 - 👋 Hi, I’m Dustin!
-- 👀 I’m interested in software development.  
-- 🌱 I’m currently studying software engineering.
-- 💞️ I’m looking to collaborate on anything to  gain more experience.
+Backend-focused software engineering student.
+
+## Tech Stack
+- Python
+- Go
+- SQL
+- Docker
+- Linux
+
+## Current Focus
+- Backend systems
+- API development
+- Cloud deployment
+- DevOps fundamentals
 - 📫 How to reach me drseverance@outlook.com
 
 <!---
