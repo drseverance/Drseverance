@@ -61,4 +61,4 @@ I use this environment to learn Linux administration, containerization, monitori
 ## 📫 Connect With Me
 
 * GitHub: https://github.com/drseverance
-* LinkedIn: *(Add your LinkedIn profile here)*
+* LinkedIn: https://www.linkedin.com/in/dustinsev
