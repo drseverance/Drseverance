@@ -1,62 +1,77 @@
 # Hi, I'm Dustin Severance 👋
 
-I'm a Software Engineering student focused on backend development, Linux, Docker, and cloud-native technologies. I enjoy building reliable backend systems, learning new technologies, and continuously improving my development skills.
+Backend Software Engineering student with a passion for building reliable backend systems using Go, Python, Linux, Docker, and PostgreSQL.
 
 ## 🚀 About Me
 
 * 🎓 Pursuing a Bachelor of Science in Software Engineering
-* 🐧 Building and managing a personal Ubuntu homelab
+* 🐧 Building and managing an Ubuntu homelab
 * 💻 Interested in Backend Engineering, DevOps, and Cloud Infrastructure
-* 🌱 Currently learning Go, PostgreSQL, Docker, Kubernetes, and AWS
+* 🌱 Currently learning Kubernetes and AWS
 
-## 🛠️ Technologies & Tools
+## 🛠️ Tech Stack
+
+**Languages**
 
 * Go
 * Python
 * SQL
+
+**Backend**
+
+* REST APIs
 * PostgreSQL
+* Database Migrations
+
+**DevOps & Infrastructure**
+
 * Docker
-* Linux
+* Docker Compose
+* Linux (Ubuntu Server)
 * Git & GitHub
+* GitHub Actions (CI)
 
 ## 📂 Featured Projects
 
-### Go REST API
+### 🚀 Go REST API
 
-A containerized REST API built with Go and PostgreSQL featuring:
+A production-style REST API built with Go and PostgreSQL.
 
-* Full CRUD operations
-* Docker & Docker Compose
+**Highlights**
+
+* CRUD API
 * PostgreSQL integration
-* SQL database migrations
-* Health and readiness endpoints
-* GitHub Actions CI
+* Docker & Docker Compose
+* SQL migrations
+* Health & readiness endpoints
 * Unit testing
+* GitHub Actions CI
+* Versioned Release (v1.0.0)
 
 🔗 Repository: https://github.com/drseverance/goserver
 
 ---
 
-### Homelab
+### 🖥️ Homelab
 
-My self-hosted Ubuntu Server environment includes:
+Self-hosted Ubuntu Server running Docker services including:
 
-* Docker
 * Portainer
 * Prometheus
 * Grafana
 * cAdvisor
 * Node Exporter
-* Nginx
+* PostgreSQL
+* Go API services
 
-I use this environment to learn Linux administration, containerization, monitoring, and backend deployment.
+This environment is where I learn Linux administration, containerization, monitoring, and backend deployment.
 
-## 🎯 Current Goals
+## 🎯 Currently Learning
 
-* Build production-ready backend services
-* Learn Kubernetes
-* Deploy applications to AWS
-* Continue improving Go and distributed systems knowledge
+* Kubernetes
+* AWS
+* Microservices
+* Backend architecture
 
 ## 📫 Connect With Me
 
